@@ -39,10 +39,7 @@ END
 ```
 ---
 ## OUTPUT:
-<img width="240" height="335" alt="Screenshot 2025-10-21 232906" src="https://github.com/user-attachments/assets/a479bc3a-faab-4e38-93d7-0dba9e671ef5" />
-<img width="244" height="336" alt="Screenshot 2025-10-21 232915" src="https://github.com/user-attachments/assets/b6048b15-60ee-4f15-96e8-7b18aa054eb6" />
-<img width="243" height="331" alt="Screenshot 2025-10-21 232924" src="https://github.com/user-attachments/assets/2bbadd58-c332-4a6c-856a-0efeab4f2e44" />
-
+<img width="1086" height="498" alt="image" src="https://github.com/user-attachments/assets/72e28dd2-73b7-4be9-a55b-141f3fcc554c" />
 ---
 
 ## RESULT:
