@@ -19,6 +19,7 @@ To generate a 1 ms delay using Timer 0 in Mode 1 (16-bit timer mode) in assembly
 6. Reload the TH0 and TL0 registers with the same 16-bit reload value to ensure the timer continues running.
 7. If you want continuous delay, repeat steps 4 to 6. If done, clear the TR0 bit to stop the timer.
 
+
 ---
 ## PROGRAM
 
